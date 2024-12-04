@@ -1,2 +1,2 @@
-# amazon.github.io
+## Amezone Web Clone using HTML & CSS
  
