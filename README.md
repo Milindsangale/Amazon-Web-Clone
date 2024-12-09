@@ -1,4 +1,4 @@
-# 🌟 Personal Portfolio Website 
+# 🌟 Amezon Website Clone Using HTML & CSS
 
 This project aims to replicate the basic structure and visual elements of **Amazon's website** using HTML and CSS. While it won't have the full functionality of a real e-commerce platform, it will provide a solid foundation for understanding web development principles and practicing HTML and CSS skills.
 ---
